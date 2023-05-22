@@ -4,8 +4,6 @@ Submitted by: **Mia Elena Tapia**
 
 This web app: **is a simple game testing user's on their Starbuck's drink knowledge**
 
-Time spent: **3** hours spent in total
-
 ## Required Features
 
 The following **required** functionality is completed:
@@ -28,6 +26,8 @@ Here's a walkthrough of implemented user stories:
 
 ![ezgif-1-0aed1ee417](https://github.com/miaskyelena/barista-game/assets/93685530/861b372b-537c-41d0-b07b-2d04a63249f9)
 
+## A live demo can be found here:
+https://barista-game.netlify.app/
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ezGIF
 <!-- Recommended tools:
