@@ -1,6 +1,6 @@
-# Web Development Project 3 - *On My Grind*
+# Web Development Project  - *On My Grind*
 
-Submitted by: **Mia Elena Tapia**
+By: **Mia Elena Tapia**
 
 This web app: **is a simple game testing user's on their Starbuck's drink knowledge**
 
